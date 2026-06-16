@@ -1,0 +1,12 @@
+{
+ "last_updated": "2026-06-16",
+ "entries": [
+  {
+   "date": "2026-06-16",
+   "summary": "Initial FRC 2025 REEFSCAPE dashboard — 64 teams with downloadable CAD, mechanism detail from Chief Delphi; 13 study picks. EPA/rank pending Statbotics API recovery.",
+   "teams": 64,
+   "picks": 13,
+   "cadYes": 64
+  }
+ ]
+}

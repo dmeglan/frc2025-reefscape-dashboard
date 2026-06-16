@@ -1,0 +1,2977 @@
+[
+ {
+  "team": 114,
+  "name": "Eaglestrike",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/496479",
+  "arch": "Coral/algae robot (elevator-class); 27th robot, SF Regional. Mechanism detail in released Onshape CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Theseus' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Full-robot Onshape release from a 25+ year veteran team; good reference for clean packaging and design conventions.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/5d04ece9b2befc583741be25/w/245cb627ee0eb8c8916eb207/e/229c5a26619d0f67361e81e7"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/496479"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/114/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/114/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 118,
+  "name": "Robonauts",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/480485",
+  "arch": "Coral cycle robot; 118 also authors the FRC Everybot (low-cost, accessible reference design).",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Firefly / Everybot' (GrabCAD release).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Robonauts publish both their comp robot CAD (STEP/IGES) and lead the Everybot program — the canonical affordable build many rookies copy.",
+  "tags": [
+   "Accessible design",
+   "CAD",
+   "Everybot",
+   "REEFSCAPE",
+   "STEP"
+  ],
+  "links": [
+   {
+    "label": "GrabCAD release",
+    "url": "https://grabcad.com/library/robonauts-118-2025-robot-firefly-1"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/480485"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/118/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/118/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 190,
+  "name": "Gompei and the HERD",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/503355",
+  "arch": "6-motor elevator; outtake with star wheels that flip coral up onto L4; ramp straightens/holds coral.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(190 V2)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "WPI-affiliated team; their CAD-release Q&A digs into the 6-motor elevator, the L4 star-wheel flip, and a coral-straightening ramp vs. a powered belt.",
+  "tags": [
+   "CAD",
+   "Elevator",
+   "L4",
+   "REEFSCAPE",
+   "Star-wheel outtake"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://frc190.onshape.com/documents/b6c840749d995b1ac1b29215/v/c2f65e25658d56c674449d2f/e/271cc80064eb69c77815f945"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/503355"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/190/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/190/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 250,
+  "name": "The Dynamos",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://grabcad.com/library/2025-250-dynamos-1",
+  "arch": "Coral/algae robot; released as GrabCAD download. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (GrabCAD release).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study The Dynamos's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "GrabCAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "GrabCAD release",
+    "url": "https://grabcad.com/library/2025-250-dynamos-1"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/250/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/250/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 294,
+  "name": "Beach Cities Robotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/493526",
+  "arch": "Full-season robot release (coral + algae). Subsystem detail in released Onshape CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(2025 full release)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Beach Cities published a full 2025-season Onshape release and appeared in FUN 'Behind the Bumpers/Glass' — useful paired CAD + interview study.",
+  "tags": [
+   "Behind the Bumpers",
+   "CAD",
+   "Full release",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/ea6260bea1fe525003cb9a53/w/f4b82e3e20e046c5f3be3b46/e/d8a502d8bb875b76be57b7ea"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/493526"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/294/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/294/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 341,
+  "name": "Miss Daisy",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/500739",
+  "arch": "Miss Daisy 2025 REEFSCAPE robot; released downloadable CAD. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Miss Daisy's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/2d1e3ac103dba342712c2c99/w/060f69714e723dd87d33ba97/e/bbd3959b191284cc99eb4f56"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/500739"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/341/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/341/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 418,
+  "name": "Purple Haze",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/483753",
+  "arch": "Coral robot; 25th season, 60-student program across 6 subteams (Austin, TX). Open build thread.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(Purple Haze 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Well-run large program with a public build thread and full CAD — good for studying subteam structure and design process, not just the mechanism.",
+  "tags": [
+   "Build thread",
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/8a44331b5da2624370c9ca91/w/185049131c8f9371625a3f46/e/6999c473f8f1eff23b3f3aba"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/483753"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/418/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/418/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 422,
+  "name": "The Mech Tech Dragons",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/501340",
+  "arch": "Coral robot; 'class of Chesapeake' district, advanced to the World stage.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Wisp' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Strong regional standout (CHCMP) with full CAD release — reference for a competitive single-region powerhouse build.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/2bae4024a467119e47dc96b0/w/6c850cd2bf85d2162a5bb7d6/e/b4c78beff50beb69b98ad0b6"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/501340"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/497928"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/422/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/422/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 581,
+  "name": "Blazing Bulldogs",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/501533",
+  "arch": "Coral/algae robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(Blazing Bulldogs 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Full robot CAD released; reveal thread plus a dedicated CAD-release thread.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/608b0dda0f1838442e89d736/w/5ea2acc09519fc306dd88bdc/e/77f704f88876565f2b34a5eb"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/501533"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/493323"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/581/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/581/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 604,
+  "name": "Quixilver",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/502824",
+  "arch": "Coral *shooter* — offseason robot that launches coral rather than placing it; unusual REEFSCAPE approach.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Quixshot (offseason)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Quixilver's offseason 'Quixshot' explores shooting coral instead of arm/elevator placement — a great what-if design study.",
+  "tags": [
+   "CAD",
+   "Coral shooter",
+   "Offseason",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/456258752934a9d51b4e2c35/w/fc69fa497b3a80cf764a6ecd/e/946f925a33bc7c7ba6066a21"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/502824"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/504607"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/604/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/604/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 614,
+  "name": "Night Hawks",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/2aea7e89db17f81f1bba042a/w/affd5efea1fc454c2f764c8b/e/5af0baceddc5d831bf4984a3",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Night Hawks's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/2aea7e89db17f81f1bba042a/w/affd5efea1fc454c2f764c8b/e/5af0baceddc5d831bf4984a3"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/614/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/614/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 663,
+  "name": "Power Sharks",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/39fa5c4e9a7e55d89bcc286e/w/ef10119a08742867f19eb724/e/e65d7fa9243da67e00e5ea0d",
+  "arch": "Elevator + pivot-arm coral scorer (per release). Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Power Sharks's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "Arm",
+   "CAD",
+   "Elevator",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/39fa5c4e9a7e55d89bcc286e/w/ef10119a08742867f19eb724/e/e65d7fa9243da67e00e5ea0d"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/663/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/663/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 695,
+  "name": "Bison Robotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/503259",
+  "arch": "Fully-autonomous coral scorer on Kraken swerve; repulsion-field auto-align.",
+  "vis": "Dual Limelight 4 running MegaTag2; 200 Hz odometry fused with a NavX2",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Goldfish' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Goldfish is a controls masterclass: dual-LL4 MegaTag2 localization at 200 Hz, fully autonomous scoring + feeder-station pickup, and a repulsion-field collision-avoidance auto-align. CAD + code public.",
+  "tags": [
+   "Autonomous",
+   "CAD",
+   "Code",
+   "Kraken",
+   "Limelight",
+   "MegaTag2",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/952ba22fa909a3d0882388da/w/94a37671574438408b83a5fc/e/97e98c3970941d33c368b387"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/503259"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/695/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/695/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 955,
+  "name": "Ctrl C",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/e0118a7c3cf53e65a9c1ef78/w/ba6b5352d34b425628f77189/e/72625765dff5d0309f2efc12",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Ctrl C's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/e0118a7c3cf53e65a9c1ef78/w/ba6b5352d34b425628f77189/e/72625765dff5d0309f2efc12"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/955/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/955/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 971,
+  "name": "Spartan Robotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/504817",
+  "arch": "Coral robot with a deliberately narrow intake; full competition robot CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Fiddler' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "971 (frc971 Onshape) is a perennial software/controls reference; the reveal Q&A explores trade-offs of a very narrow intake.",
+  "tags": [
+   "CAD",
+   "Narrow intake",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://frc971.onshape.com/documents/7fe785bbcbd521f1316ad2c6/v/5a4a017acd66b28d2f8c7684/e/194d67360c254300114d8b67"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/504817"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/494523"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/971/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/971/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1086,
+  "name": "Blue Cheese",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/506376",
+  "arch": "Do-it-all: coral on all 4 levels, algae from reef to net+processor, deep-cage climb.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Stingray' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Stingray covers the entire REEFSCAPE objective set (4-level coral, algae net+processor, deep climb) with CAD + code public — a complete-capability reference.",
+  "tags": [
+   "Algae",
+   "All 4 levels",
+   "CAD",
+   "Code",
+   "Deep climb",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://henrico.onshape.com/documents/4298135b1628b8946460de4d/w/4d0457fe199dcea6e0e957c8/e/a2d3bdc8542a373f596b09b2"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/506376"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1086/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1086/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1114,
+  "name": "Simbotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/500046",
+  "arch": "Coral-only, station-intake elevator; deliberately skipped deep climb, ground algae and floor coral.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Simbot Suzuki' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Simbotics' design thesis is focus: a coral-only cycle that intentionally drops deep climb / ground algae / floor coral to maximize cycle speed and reliability. Excellent strategy-driven design study with full CAD.",
+  "tags": [
+   "CAD",
+   "Coral-only",
+   "Elevator",
+   "REEFSCAPE",
+   "Strategy"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/8782ccd3db870fc41090b5e6/w/88d1084497e586d2c58a4051/e/f1dc3344d36d78907a60d4d9"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/500046"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1114/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1114/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1153,
+  "name": "Timberwolves",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/502263",
+  "arch": "1-stage elevator (L1-L3) + algae to processor/barge; ground algae intake; sub-15 s deep climb.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Lagotto' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Lagotto pairs a simple 1-stage elevator with ground-algae handling and a sub-15-second deep climb; captained every district event and won technical awards. CAD public.",
+  "tags": [
+   "Algae",
+   "CAD",
+   "Deep climb",
+   "District champ",
+   "Elevator",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/0c941b8ba82f0478778218c8/w/869934382d3f497294f1e886/e/0accb6313ed5fe4afa0c8d8a"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/502263"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1153/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1153/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1156,
+  "name": "Under Control",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/505398",
+  "arch": "Swerve coral robot running a permanent orientation-PID heading controller.",
+  "vis": "Unconfirmed (check CAD/binder)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(Under Control 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Released CAD, code AND a technical binder; the binder + orientation-PID swerve writeup make it a strong reproducible study.",
+  "tags": [
+   "CAD",
+   "Code",
+   "REEFSCAPE",
+   "Swerve",
+   "Tech binder"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/6e3b7e0b9e9abe53ea984480/w/70c43f2512c4ee937087fd79/e/86286eb9c833cb428656891e"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/505398"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1156/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1156/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1540,
+  "name": "Flaming Chickens",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/d694648769006ea43f33e6e9/w/5a84c13266fdd438811520ea/e/fcef5e7aede1f05d31dc3e56",
+  "arch": "Coral robot (Flaming Chickens); full Onshape release. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Flaming Chickens's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/d694648769006ea43f33e6e9/w/5a84c13266fdd438811520ea/e/fcef5e7aede1f05d31dc3e56"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1540/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1540/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1595,
+  "name": "The Dragons",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/9aee34abc6119baad91c1fb3/w/c960459dbc02e9d22f1350a4/e/3eda391da613e4e3e4ff1895",
+  "arch": "Coral robot using a 'boat-hook' lift mechanism (per release). Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study The Dragons's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "Boat-hook lift",
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/9aee34abc6119baad91c1fb3/w/c960459dbc02e9d22f1350a4/e/3eda391da613e4e3e4ff1895"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1595/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1595/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1690,
+  "name": "Orbit",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/501057",
+  "arch": "Closed-belt differential elevator; fast coral cycle. Top international performer.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'WHISPER' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Orbit's WHISPER popularized the closed-belt differential elevator (credited to a community design); elite cycle speed with both a reveal and a full CAD release.",
+  "tags": [
+   "CAD",
+   "Differential elevator",
+   "Elite",
+   "Israel",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/76609fe05a6594c5f9c4062a/w/437a97728f1629348e9dd7cf/e/465d3a35c190dab8355f1e5c"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/501057"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/492064"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1690/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1690/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1706,
+  "name": "Ratchet Rockers",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/495400",
+  "arch": "Coral robot with a belt-driven funnel intake. Mechanism detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Singularity' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Ratchet Rockers' teaser + CAD; the funnel-belt material discussion is a useful intake detail.",
+  "tags": [
+   "CAD",
+   "Funnel",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/4b02abefda59b1f999042049/w/bf40141578ddedca6b900af0/e/5e919c0d868af85f4440ce2a"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/495400"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1706/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1706/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1710,
+  "name": "The Ravonics Revolution",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/492795",
+  "arch": "Coral robot; released as Fusion 360 CAD. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Dobson' (Fusion CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "One of the few Fusion 360 releases in the set — useful if your team works in Fusion rather than Onshape.",
+  "tags": [
+   "CAD",
+   "Fusion",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Fusion CAD",
+    "url": "https://a360.co/3Qb6qQ2"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/492795"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1710/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1710/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1714,
+  "name": "MORE Robotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/1eb14023ca1fa13cffb4461d/w/52665e16498ef9c283691420/e/d69dd559f69b3e13b62cc7cd",
+  "arch": "Coral robot; comp + offseason Onshape releases. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study MORE Robotics's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "Offseason",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/1eb14023ca1fa13cffb4461d/w/52665e16498ef9c283691420/e/d69dd559f69b3e13b62cc7cd"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1714/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1714/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1732,
+  "name": "Hilltopper Robotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/492785",
+  "arch": "Coral arm/claw with 4x-L4 autonomous; algae handoff down into the processor.",
+  "vis": "QuestNav (Meta Quest-based) localization for the 4x L4 auto",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(Hilltoppers 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Hilltoppers ran a 4-coral-L4 auto using QuestNav localization plus an algae claw-to-processor handoff — a leading example of VR-headset odometry in FRC.",
+  "tags": [
+   "4x L4 auto",
+   "Algae",
+   "QuestNav",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/39e02e7c3e67fe63d706d23a/w/599feda2281071a3b9d02adb/e/f0d7233aecb37fcf95f6520f"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/492785"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1732/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1732/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1756,
+  "name": "Argos",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://a360.co/3BZzQtr",
+  "arch": "Coral robot; released as Fusion 360 CAD. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Fusion CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Argos's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "Fusion",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Fusion CAD",
+    "url": "https://a360.co/3BZzQtr"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1756/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1756/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 1778,
+  "name": "Chill Out",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/493591",
+  "arch": "Ground coral intake with internal centering wheels feeding a quick arm/end-effector.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(Chill Out 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Clean ground-intake-to-arm handoff with passive centering wheels — a good case study in reliable floor coral acquisition.",
+  "tags": [
+   "Arm",
+   "Ground intake",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/07beed2a16f5d7898cc42c9c/w/a74e4d796ba952dabae8ff7e/e/42c6b0e68334934d197bf369"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/493591"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/1778/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/1778/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2102,
+  "name": "Team Paradox",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/506370",
+  "arch": "Coral robot; Open Alliance build, YAGSL swerve + robot simulation. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Nautilus' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Team Paradox documents openly (Open Alliance) and adopted YAGSL + simulation — good software-process reference alongside the CAD.",
+  "tags": [
+   "CAD",
+   "Open Alliance",
+   "REEFSCAPE",
+   "Simulation",
+   "YAGSL"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/43f10c6d4fe80e268d0ea617/w/9dc0cd8274176bc8855e647d/e/71b98beac41d83f4b1287cbc"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/506370"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2102/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2102/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2423,
+  "name": "The KwarQs",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/a00806cf8fc9f2098b1d63ee/w/aca1f39623a510d0aeb4603a/e/1548eab9dae75d0b4ffde957",
+  "arch": "Coral robot; Reefscape + offseason Onshape release. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study The KwarQs's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "Offseason",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/a00806cf8fc9f2098b1d63ee/w/aca1f39623a510d0aeb4603a/e/1548eab9dae75d0b4ffde957"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2423/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2423/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2485,
+  "name": "Overclocked",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://francisparker.onshape.com/documents/b86b47c471ea8567e452f2a9/w/f0d932f514d93f149556e0b9/e/a5f2f23f77a632d72856b378",
+  "arch": "Full Reefscape robot 'Nessie' (Francis Parker Onshape). Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Nessie' (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Overclocked's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://francisparker.onshape.com/documents/b86b47c471ea8567e452f2a9/w/f0d932f514d93f149556e0b9/e/a5f2f23f77a632d72856b378"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2485/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2485/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2577,
+  "name": "Pingry Robotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/18573bf2f9e15d328f1ff6da/w/72e37b93f303e2532d8dbf1d/e/57f59f86724ee261359388db",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Pingry Robotics's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/18573bf2f9e15d328f1ff6da/w/72e37b93f303e2532d8dbf1d/e/57f59f86724ee261359388db"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2577/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2577/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2630,
+  "name": "Thunderbolts",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/492751",
+  "arch": "Large arm-based robot scoring coral and algae (incl. algae into the net).",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Atlas' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Thunderbolts' 'Atlas' uses a big arm for both coral and net algae — a reach-vs-elevator design contrast.",
+  "tags": [
+   "Algae",
+   "Arm",
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/bde8569b42ec0f5af0d86515/w/70dc491032ae30438d5e4f62/e/cbec1b4943a19b44103068e8"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/492751"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2630/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2630/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2813,
+  "name": "Gear Heads",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/499938",
+  "arch": "Coral robot; offseason CAD release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(Gear Heads 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Offseason CAD release — reference for an iterated post-season design.",
+  "tags": [
+   "CAD",
+   "Offseason",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/eb4be7d6ca386ccab6119372/w/1c1e61e5575b090a5535908c/e/47a1337af9f3995796b0adc0"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/499938"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2813/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2813/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2877,
+  "name": "LigerBots",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/501397",
+  "arch": "Coral/algae robot; team's first-ever Einstein (world championship field) appearance.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Hydra' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "LigerBots' breakout 'Hydra' reached Einstein; full CAD reveal makes a strong study of a championship-level NE-district build.",
+  "tags": [
+   "CAD",
+   "Einstein",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/31e0cca2dab54a1437c99ba9/w/3122cca0f4e6cad165a95124/e/3d63c90e9bacdc819f5cc612"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/501397"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2877/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2877/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2881,
+  "name": "Lady Cans",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://grabcad.com/library/frc-2881-2025-competition-robot-1",
+  "arch": "Champs-config + offseason robot, released as GrabCAD (STEP/IGES). Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (GrabCAD release).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Lady Cans's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "STEP"
+  ],
+  "links": [
+   {
+    "label": "GrabCAD release",
+    "url": "https://grabcad.com/library/frc-2881-2025-competition-robot-1"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2881/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2881/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2910,
+  "name": "Jack in the Bot",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/500310",
+  "arch": "Very compact self-aligning ground coral intake; fast cycle (paired with 9442).",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Spectre' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Jack in the Bot's 'Spectre' is known for one of the smallest self-aligning ground intakes in the game; reveal + CAD released.",
+  "tags": [
+   "CAD",
+   "Compact",
+   "Ground intake",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://2910.onshape.com/documents/f33ab032b00dc4b711aa86a6/w/951c0955d38b370eab02b587/e/415a66cb7efdf4aba6199086"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/500310"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/494648"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2910/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2910/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 2930,
+  "name": "Sonic Squirrels",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/505039",
+  "arch": "Coral robot; 100+ Choreo auto paths; PhotonVision on dual coprocessors.",
+  "vis": "PhotonVision on two Orange Pi 5 coprocessors",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(Sonic Squirrels 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Sonic Squirrels' code release shows a deep auto library (100+ Choreo paths, driver-selectable) and dual-Orange-Pi PhotonVision — excellent autonomous/vision study.",
+  "tags": [
+   "Autonomous",
+   "CAD",
+   "Choreo",
+   "Code",
+   "PhotonVision",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/031bb7cc6f7ddc530d4778f1/w/667b243ea0c6188633e5d992/e/8bf82e4f98b2523855e4c640"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/505039"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/2930/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/2930/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 3005,
+  "name": "RoboChargers",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/493529",
+  "arch": "3-stage elevator carrying a 'laterator' with a coral ejector + algae gripper; coral routes through the elevator.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Relay' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "RoboChargers' 'Relay' is a clever packaging study: a laterator end-effector (coral ejector + algae gripper) on a 3-stage elevator with coral routed through the elevator and a clean funnel.",
+  "tags": [
+   "Algae",
+   "CAD",
+   "Elevator",
+   "Laterator",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/be7ecb57773083221899273d/w/3ffbf14ecde31212fdcb4a6a/e/fe6648ecf44d2b65b2b452a4"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/493529"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/3005/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/3005/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 3128,
+  "name": "The Aluminum Narwhals",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/492718",
+  "arch": "Compact, well-packaged coral robot; high performer, competed at Worlds.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Gillbert' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Aluminum Narwhals' 'Gillbert' is praised as simple, elegant and well-packaged — a reference for tidy, high-performing design.",
+  "tags": [
+   "Packaging",
+   "REEFSCAPE",
+   "Reveal",
+   "Worlds"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/00ea27a90cec75eb80e2ea96/w/0107499ee3efe69934cc9f5d/e/a4703719d315ae179b4492ec"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/492718"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/3128/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/3128/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 3357,
+  "name": "COMETS",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/492944",
+  "arch": "Coral robot on a compact 24x24\" frame. Subsystem detail in released CAD (STEP/IGES).",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Tempel' (GrabCAD release).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "COMETS' 'Tempel' on a small 24x24 frame — a study in compact-frame REEFSCAPE packaging.",
+  "tags": [
+   "CAD",
+   "Compact frame",
+   "REEFSCAPE",
+   "STEP"
+  ],
+  "links": [
+   {
+    "label": "GrabCAD release",
+    "url": "https://grabcad.com/library/tempel-1"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/492944"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/3357/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/3357/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 3414,
+  "name": "Hackbots",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/504245",
+  "arch": "Coral robot; multi-event alliance captain/first-pick, IRI + Kettering invitationals.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Levi' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Hackbots' 'Levi' was an alliance captain/first-pick across MSC and post-season invitationals; full CAD released.",
+  "tags": [
+   "Alliance captain",
+   "CAD",
+   "IRI",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/a2bc78eb001d154cbe3859be/w/4f3f5511df52617d56e64524"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/504245"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/3414/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/3414/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 3512,
+  "name": "Spartatroniks",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/498773",
+  "arch": "Coral robot; released CAD plus a full technical binder. Subsystem detail in binder.",
+  "vis": "Unconfirmed (check binder)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Charybdis' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Spartatroniks released both CAD and a technical binder — a reproducible documentation reference.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "Tech binder"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/66cc9426240dc09814c0f97a/w/c18126ddc40ea5b7fb458c7b/e/874e79cc278024b0b9450dd1"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/498773"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/3512/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/3512/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 3669,
+  "name": "CarbonKnights",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/ad6a57534ef4609e0ab31d19/w/0b5f5b089f3517d557199f29/e/92647ada3c22e6513ce0de71",
+  "arch": "Coral robot with elevator + Limelight (per release). Detail in CAD.",
+  "vis": "Limelight (per release description)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study CarbonKnights's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "Elevator",
+   "Limelight",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/ad6a57534ef4609e0ab31d19/w/0b5f5b089f3517d557199f29/e/92647ada3c22e6513ce0de71"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/3669/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/3669/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 4192,
+  "name": "Jaguar Robotics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/e1c3d5fdb731627d303cef4c/w/8e6559f9ed16faf57bf23ed0/e/0e132e03b667471f1c3ee8d3",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Jaguar Robotics's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/e1c3d5fdb731627d303cef4c/w/8e6559f9ed16faf57bf23ed0/e/0e132e03b667471f1c3ee8d3"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/4192/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/4192/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 4488,
+  "name": "Shockwave",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/509367",
+  "arch": "Coral robot (PNW district). Subsystem detail in released CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Riptide' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Shockwave's 'Riptide' with reveal + CAD release; PNW-district reference build.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/d25ad28d10b32a7cf7c6139b/w/bf115be82493f8a3bab61824/e/015e5289230e8c3a6dfeb108"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/509367"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/493957"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/4488/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/4488/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 4561,
+  "name": "TerrorBytes",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/d961a4e3c2e5d964526bacff/w/05ec8541344b5954b95967ef/e/356f303be9fea256e4689dfb",
+  "arch": "TerrorBytes 2025 REEFSCAPE robot; released downloadable CAD. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study TerrorBytes's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/d961a4e3c2e5d964526bacff/w/05ec8541344b5954b95967ef/e/356f303be9fea256e4689dfb"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/4561/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/4561/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 5026,
+  "name": "Iron Panthers",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/495127",
+  "arch": "Coral robot with a strong human-load funnel feeding the scorer.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'The Grim Reefer' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Iron Panthers' funnel-fed human-load design is a clean station-intake reference.",
+  "tags": [
+   "Funnel",
+   "REEFSCAPE",
+   "Reveal",
+   "Station intake"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/87cade78faea23d22e8f5413/w/a113e9a3a280dbf7912bf03e/e/ac199c62b28f1c131ae163a0"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/495127"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/5026/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/5026/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 5940,
+  "name": "BREAD",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/501347",
+  "arch": "Coral robot with a front intake roller. Subsystem detail in released CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(BREAD 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "BREAD's CAD-release Q&A focuses on the front intake roller geometry.",
+  "tags": [
+   "CAD",
+   "Front intake",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/96a5f9f437337066b2987626/w/9644a0c5069d0349ab3cf5a6/e/01df3e1fb18f1f03077c9c5d"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/501347"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/5940/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/5940/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 5982,
+  "name": "Merrill's Circuits of Destruction",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/77af01a1ce55e46039db6b72/w/4798adf385c550ba540229c5/e/3193a2a760f186184f2e18bd",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Merrill's Circuits of Destruction's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/77af01a1ce55e46039db6b72/w/4798adf385c550ba540229c5/e/3193a2a760f186184f2e18bd"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/5982/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/5982/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 5990,
+  "name": "TRIGON",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/500664",
+  "arch": "Coral robot; strong Israeli team (FIRST Israel). Subsystem detail in released CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'TRIDOG' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "TRIGON's 'TRIDOG' — a consistently strong program; reveal + CAD release.",
+  "tags": [
+   "CAD",
+   "Israel",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/4c5e2ea12b5cd01cf3661d92/w/b89d262a51dc00d48009a6da/e/022b3839db0b9eb6d8878a1b"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/500664"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/493284"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/5990/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/5990/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 6343,
+  "name": "Steel Ridge",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/ca5da6a6b837f0a4ebd1956e/w/2725ebc42cf4f918a62ba412/e/8c13d62984b81cfb4b8d2284",
+  "arch": "Coral robot; comp + offseason Onshape releases. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Steel Ridge's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "Offseason",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/ca5da6a6b837f0a4ebd1956e/w/2725ebc42cf4f918a62ba412/e/8c13d62984b81cfb4b8d2284"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/6343/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/6343/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 6995,
+  "name": "NOMAD",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/494466",
+  "arch": "Coral robot; won the Orange County Regional and the Autonomous Award.",
+  "vis": "Unconfirmed (check CAD); strong auto (Autonomous Award)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Mariana' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "NOMAD's 'Mariana' won an event and the Autonomous Award — worth studying the auto routine behind that recognition.",
+  "tags": [
+   "Autonomous Award",
+   "Event win",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/bea9ddf84f17b35741c6b465/w/46df2dec86e787551c9c42ef/e/8c922cb598fc4dba574755cc"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/494466"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/6995/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/6995/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 7407,
+  "name": "Wired Boars",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/496590",
+  "arch": "Coral robot; Limelight-style polished reveal with technical blurbs. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'GRIPTIDE' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Wired Boars' 'GRIPTIDE' release is unusually polished (CAD assembly walk-through) — good presentation/communication reference plus full CAD.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "Reveal"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/c2395e8cc25ba2e37f225c1c/w/bd65b2a0c5d2dab99556c06b/e/9397772cbfdc7ca9f11dfdec"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/496590"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/7407/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/7407/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 7525,
+  "name": "Pioneers",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/c84529a3e5425ded8d2b929f/w/b81944d5c40b07e1a7fc4773",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Pioneers's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/c84529a3e5425ded8d2b929f/w/b81944d5c40b07e1a7fc4773"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/7525/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/7525/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 7691,
+  "name": "TSA All Stars",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/78f50304a2458f85344df655/w/852b12070828998317104304/e/896fe224cb3f9b7c8542fc6f",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study TSA All Stars's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/78f50304a2458f85344df655/w/852b12070828998317104304/e/896fe224cb3f9b7c8542fc6f"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/7691/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/7691/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 8159,
+  "name": "Golden Horn",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/509509",
+  "arch": "Coral robot, dual Limelight; won 2 regionals + first Impact Award; Johnson Division.",
+  "vis": "Two Limelight cameras (per release Q&A)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Serpentheim' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "Golden Horn released CAD, code AND strategy docs and won 2 regionals plus their first Impact Award — a strong all-round (technical + strategy + outreach) study.",
+  "tags": [
+   "CAD",
+   "Code",
+   "Impact Award",
+   "Limelight",
+   "REEFSCAPE",
+   "Strategy"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/9b4847a461c2a185e6ff320a/w/6df8cee50adeaba604998544/e/ed071581b5e32ec2f2371cae"
+   },
+   {
+    "label": "CD CAD/code release",
+    "url": "https://www.chiefdelphi.com/t/509509"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/8159/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/8159/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 8410,
+  "name": "Oyster River Overdrive",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/85f049f4c269db378eeebe63/w/48ad4b3a6b3b112bb9ac2c0a/e/34fb000f4db5cbbf2603f9d0",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Oyster River Overdrive's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/85f049f4c269db378eeebe63/w/48ad4b3a6b3b112bb9ac2c0a/e/34fb000f4db5cbbf2603f9d0"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/8410/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/8410/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 9432,
+  "name": "Team 8-Bit",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/3f8584ec0b337fcb95287553/w/a1e73a587cbdf56c683bef8d/e/306408c775c59de73892bf56",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Team 8-Bit's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/3f8584ec0b337fcb95287553/w/a1e73a587cbdf56c683bef8d/e/306408c775c59de73892bf56"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/9432/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/9432/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 9442,
+  "name": "Miso Mechanics",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/5b19b60d3d3795dc0a1f44ae/w/72eddf1ad6df02860a3595e5/e/73362552d10302bbff24c0ac",
+  "arch": "Compact coral robot; paired with 2910 (Jack in the Bot). Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Miso Mechanics's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/5b19b60d3d3795dc0a1f44ae/w/72eddf1ad6df02860a3595e5/e/73362552d10302bbff24c0ac"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/9442/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/9442/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 9450,
+  "name": "Velocity Raptors",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/c6bdaca3cbc3776b8be92803/w/47ba54efd563415a6d66fac4/e/880e554f6b74d64731782793",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study Velocity Raptors's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/c6bdaca3cbc3776b8be92803/w/47ba54efd563415a6d66fac4/e/880e554f6b74d64731782793"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/9450/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/9450/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 9485,
+  "name": "HYOBOTS",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://cad.onshape.com/documents/a7e9686208ca0fd454f8fc65/w/823bbacd8d41e1dc7a534caf/e/e95c8518d701c2f9d12f8f40",
+  "arch": "Coral robot; full Onshape release. Subsystem detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD (Onshape CAD).",
+  "status": "Added",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; no detailed 2025 Chief Delphi writeup found, so subsystem detail lives in the released CAD.",
+  "confidence": "High",
+  "sourceNote": "Listed on the Spectrum 3847 CAD Collection (2025).",
+  "study": "Downloadable full-robot CAD for REEFSCAPE — open it to study HYOBOTS's coral-cycle packaging and drivetrain.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/a7e9686208ca0fd454f8fc65/w/823bbacd8d41e1dc7a534caf/e/e95c8518d701c2f9d12f8f40"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/9485/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/9485/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 9496,
+  "name": "LYNK",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/481015",
+  "arch": "Coral robot from a small team; documented via a public 'Build Log'. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot '(LYNK 2025)' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "LYNK shows how a small team documents openly without full Open-Alliance overhead — a realistic small-program reference.",
+  "tags": [
+   "Build log",
+   "CAD",
+   "REEFSCAPE",
+   "Small team"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/252eb205bc1699323c399c2a/w/52c536258375c75fa1eb94d0/e/9f7ebb6dd6e0f50473c3d0d4"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/481015"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/9496/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/9496/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ },
+ {
+  "team": 10213,
+  "name": "BALTA",
+  "region": "",
+  "epa": 0,
+  "rank": 0,
+  "rec": "",
+  "cad": "Yes",
+  "link": "https://www.chiefdelphi.com/t/499332",
+  "arch": "Rookie team coral robot; won Rookie All-Star at its regional. Detail in CAD.",
+  "vis": "Unconfirmed (check CAD)",
+  "pick": false,
+  "notes": "Added 2026-06-16. Released downloadable CAD — robot 'Yellow' (Onshape CAD).",
+  "status": "Reviewed",
+  "evidence": "Downloadable CAD located on the Spectrum CAD Collection; mechanism/vision detail mined from the team's Chief Delphi thread.",
+  "confidence": "High",
+  "sourceNote": "Released 2025 on Chief Delphi + Spectrum CAD Collection.",
+  "study": "BALTA is a rookie that released full CAD and won Rookie All-Star — an encouraging rookie reference build.",
+  "tags": [
+   "CAD",
+   "REEFSCAPE",
+   "Rookie All-Star"
+  ],
+  "links": [
+   {
+    "label": "Onshape CAD",
+    "url": "https://cad.onshape.com/documents/c539a13f3bdf0f5de33b6ff5/w/290a247b23cba87257841193"
+   },
+   {
+    "label": "CD reveal thread",
+    "url": "https://www.chiefdelphi.com/t/499332"
+   },
+   {
+    "label": "Statbotics",
+    "url": "https://www.statbotics.io/team/10213/2025"
+   },
+   {
+    "label": "The Blue Alliance",
+    "url": "https://www.thebluealliance.com/team/10213/2025"
+   }
+  ],
+  "statboticsName": "",
+  "epaExact": 0.0,
+  "winrate": 0.0,
+  "eventCount": null,
+  "statboticsTeamCount": null
+ }
+]

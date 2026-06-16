@@ -1,0 +1,396 @@
+{
+ "counts": {
+  "teams": 64,
+  "cadYes": 64,
+  "partial": 0,
+  "none": 0,
+  "highConf": 64,
+  "picks": 13
+ },
+ "rows": [
+  {
+   "team": 114,
+   "name": "Eaglestrike",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 118,
+   "name": "Robonauts",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 190,
+   "name": "Gompei and the HERD",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 250,
+   "name": "The Dynamos",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 294,
+   "name": "Beach Cities Robotics",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 341,
+   "name": "Miss Daisy",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 418,
+   "name": "Purple Haze",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 422,
+   "name": "The Mech Tech Dragons",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 581,
+   "name": "Blazing Bulldogs",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 604,
+   "name": "Quixilver",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 614,
+   "name": "Night Hawks",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 663,
+   "name": "Power Sharks",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 695,
+   "name": "Bison Robotics",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 955,
+   "name": "Ctrl C",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 971,
+   "name": "Spartan Robotics",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 1086,
+   "name": "Blue Cheese",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 1114,
+   "name": "Simbotics",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 1153,
+   "name": "Timberwolves",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 1156,
+   "name": "Under Control",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 1540,
+   "name": "Flaming Chickens",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 1595,
+   "name": "The Dragons",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 1690,
+   "name": "Orbit",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 1706,
+   "name": "Ratchet Rockers",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 1710,
+   "name": "The Ravonics Revolution",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 1714,
+   "name": "MORE Robotics",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 1732,
+   "name": "Hilltopper Robotics",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 1756,
+   "name": "Argos",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 1778,
+   "name": "Chill Out",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2102,
+   "name": "Team Paradox",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2423,
+   "name": "The KwarQs",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2485,
+   "name": "Overclocked",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2577,
+   "name": "Pingry Robotics",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2630,
+   "name": "Thunderbolts",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2813,
+   "name": "Gear Heads",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2877,
+   "name": "LigerBots",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2881,
+   "name": "Lady Cans",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 2910,
+   "name": "Jack in the Bot",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 2930,
+   "name": "Sonic Squirrels",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 3005,
+   "name": "RoboChargers",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 3128,
+   "name": "The Aluminum Narwhals",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 3357,
+   "name": "COMETS",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 3414,
+   "name": "Hackbots",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 3512,
+   "name": "Spartatroniks",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 3669,
+   "name": "CarbonKnights",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 4192,
+   "name": "Jaguar Robotics",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 4488,
+   "name": "Shockwave",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 4561,
+   "name": "TerrorBytes",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 5026,
+   "name": "Iron Panthers",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 5940,
+   "name": "BREAD",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 5982,
+   "name": "Merrill's Circuits of Destruction",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 5990,
+   "name": "TRIGON",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 6343,
+   "name": "Steel Ridge",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 6995,
+   "name": "NOMAD",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 7407,
+   "name": "Wired Boars",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 7525,
+   "name": "Pioneers",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 7691,
+   "name": "TSA All Stars",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 8159,
+   "name": "Golden Horn",
+   "pick": true,
+   "cad": "Yes"
+  },
+  {
+   "team": 8410,
+   "name": "Oyster River Overdrive",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 9432,
+   "name": "Team 8-Bit",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 9442,
+   "name": "Miso Mechanics",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 9450,
+   "name": "Velocity Raptors",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 9485,
+   "name": "HYOBOTS",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 9496,
+   "name": "LYNK",
+   "pick": false,
+   "cad": "Yes"
+  },
+  {
+   "team": 10213,
+   "name": "BALTA",
+   "pick": false,
+   "cad": "Yes"
+  }
+ ]
+}

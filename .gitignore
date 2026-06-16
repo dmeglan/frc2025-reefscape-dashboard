@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+pipeline/_discovery.json
+pipeline/_build_discovery.py
+pipeline/_author.py
