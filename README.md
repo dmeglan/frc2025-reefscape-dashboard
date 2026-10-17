@@ -1,39 +1,30 @@
-# FRC 2025 REEFSCAPE — Robot Study Dashboard
+# FRC 2025 REEFSCAPE -- Robot Study Dashboard
 
-An interactive, self-contained dashboard cataloging the FRC 2025 **REEFSCAPE** robots that
-publicly released **downloadable CAD**, enriched with mechanism and vision detail mined from each
-team's Chief Delphi reveal / CAD-release thread. Built with the `frc-robot-study-dashboard` pipeline,
-mirroring the 2026 REBUILT dashboard.
+A searchable catalog of FRC 2025 REEFSCAPE robots with public design material, plus
+the top-30 robots by Local EPA.
 
-- **`index.html`** — the interactive dashboard (desktop table + mobile card view), GitHub Pages entry point.
-- **`deep-dive.html`** / **`deep-dive.pdf`** — printable subsystem teardown of the best-documented robots.
-- **`pipeline/`** — the build pipeline (`config.py`, `codex_data.json`, `deepdive_extra.py`, build scripts).
+- Live site: https://dmeglan.github.io/frc2025-reefscape-dashboard/
+- `index.html`: the dashboard (desktop table and phone cards, light and dark themes).
+- `deep-dive.html` / `deep-dive.pdf`: the deep dive with subsystem profiles.
 
-## Status
+| Item | Count |
+|---|---|
+| Robots | 111 |
+| Downloadable CAD | 97 |
+| Technical binder or code only | 6 |
+| No public design material (top 30 only) | 8 |
+| Subsystem profiles | 51 |
+| Study picks | 37 |
 
-- **64 teams** with downloadable CAD (Onshape / GrabCAD), discovered via the Spectrum 3847 CAD Collection.
-- **13 ★ study picks**, each with a deep subsystem profile drawn from its Chief Delphi thread.
-- **EPA / rank / record are pending**: Statbotics' data API was mid-outage at build time (HTTP 500 on
-  all data endpoints). Those columns show "—" and will be backfilled when the API recovers — re-run the
-  pipeline to enrich them.
+## Sources
+- Spectrum 3847 CAD Collection, Chief Delphi release, reveal and build threads, team CAD, binder and code releases.
+- The Blue Alliance: regions, official-event win-loss-tie records, awards.
+- EPA is Local EPA (approx). The Statbotics data API is offline, so EPA was computed from The Blue
+  Alliance match data with the open-source Statbotics model (github.com/avgupta456/statbotics).
 
-## Rebuild
+## Accuracy
+Each entry states only what the team's public material says. "Unconfirmed" means the public
+material does not state the detail. To correct an entry, post in the Chief Delphi thread for
+these dashboards. A correction from a team member is applied as written.
 
-```
-cd pipeline
-python3 build_dashboard.py        # dashboard + dashboard_state.json
-python3 build_deepdive_html.py
-python3 build_deepdive_pdf.py     # needs: pip install reportlab --break-system-packages
-python3 apply_changelog.py "summary"   # writes ../index.html + ../deep-dive.*
-```
-
-## One-time GitHub Pages setup
-
-```
-git init && git add . && git commit -m "Initial FRC 2025 REEFSCAPE dashboard"
-git branch -M main
-git remote add origin https://USERNAME:TOKEN@github.com/USERNAME/frc2025-reefscape-dashboard.git
-git push -u origin main
-```
-
-Then enable **Settings → Pages → Deploy from a branch → `main` / root**. After that, `bash pipeline/publish.sh "msg"` pushes refreshes hands-off.
+Last full research pass: 2026-10-17.
